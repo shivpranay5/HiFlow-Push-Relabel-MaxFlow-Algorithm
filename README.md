@@ -23,7 +23,7 @@ Flow networks power countless real-world systems — from airline scheduling and
 | **Serial**    | One active node at a time         | —                 |
 | **Parallel**  | Many active nodes in parallel     | 🔼 Up to 6x speedup |
 
-### 🏥 Real-World Use Cases
+### Real-World Use Cases
 
 - **Telecom Routing** → Edmonds-Karp for consistent throughput
 - **Medical Image Segmentation** → Push-Relabel for fast 3D/4D processing

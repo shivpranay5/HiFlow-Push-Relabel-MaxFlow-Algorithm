@@ -1,6 +1,6 @@
 ## Max Flow Algorithms: Ford-Fulkerson, Edmonds-Karp & Push-Relabel (Serial vs Parallel)
 
-🔗 [Read Full Article on Medium](https://medium.com/@pranay-reddy-palle/max-flow-algorithms-ford-fulkerson-edmonds-karp-push-relabel-serial-vs-parallel-xyz)
+🔗 [Read Full Article on Medium](https://medium.com/@ppalle3/breaking-down-max-flow-algorithms-ford-fulkerson-edmonds-karp-push-relabel-serial-vs-parallel-1eb33894686c)
 
 Paper Link Soon
 

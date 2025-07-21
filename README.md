@@ -21,7 +21,7 @@ Flow networks power countless real-world systems — from airline scheduling and
 | Variant       | Approach                          | Performance Boost |
 |---------------|-----------------------------------|-------------------|
 | **Serial**    | One active node at a time         | —                 |
-| **Parallel**  | Many active nodes in parallel     | 🔼 Up to 6x speedup |
+| **Parallel**  | Many active nodes in parallel     | 🔼 Up to 2000x speedup |
 
 ### Real-World Use Cases
 
